@@ -11,12 +11,4 @@ Welcome to introduction to GitHub!
    :caption: Contents:
 
    what-is-github.rst
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   github-desktop.rst
