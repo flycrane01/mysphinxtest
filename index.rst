@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test's documentation!
+Welcome to introduction to GitHub!
 ================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   intro.rst
+   what-is-github.rst
 
 
 
